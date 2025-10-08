@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erlano</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm from Boa Viagem-Ce, Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
