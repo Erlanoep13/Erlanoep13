@@ -19,6 +19,7 @@
 
 - [**AcessoLivre**](https://github.com/Erlanoep13/Acesso-Livre) — Sistema crowdsourcing para mapeamento de locais com acessibilidade, ajudando a promover a inclusão.
 - [**Sistema de Reposição de Aulas - IFCE**](https://github.com/Erlanoep13/Sistema-de-reposicao-de-aulas) — Projeto criado para automatizar e gerenciar o processo de solicitação de reposição de aulas no IFCE.
+- [**LLM Focada em Agricultura**](https://github.com/Erlanoep13/LLM-focada-em-Agricultura-) — LLM modelo gemini flash criado para ajudar na agricultura.
 
 ---
 
